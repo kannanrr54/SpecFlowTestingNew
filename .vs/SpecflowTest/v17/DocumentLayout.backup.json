@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanna\\source\\repos\\SpecFlowTestingNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F652CBA5-ACE0-41F6-B7B2-1DDDDD1B3254}|SpecflowTest\\SpecflowTest.csproj|c:\\users\\kanna\\source\\repos\\specflowtestingnew\\specflowtest\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F652CBA5-ACE0-41F6-B7B2-1DDDDD1B3254}|SpecflowTest\\SpecflowTest.csproj|solutionrelative:specflowtest\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\kanna\\source\\repos\\SpecFlowTestingNew\\SpecflowTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecflowTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\kanna\\source\\repos\\SpecFlowTestingNew\\SpecflowTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeToolTip": "SpecflowTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:26:04.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
