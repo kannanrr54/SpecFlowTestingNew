@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecflowTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b33930d8b0be46a4de27b41f9144f2f002d19f63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d78bdc972b32b8870b5f5ef167459733f20c07f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecflowTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecflowTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

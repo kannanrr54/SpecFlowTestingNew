@@ -7,7 +7,6 @@ namespace SpecflowTest.StepDefinitions
     [Binding]
     public class LoginStepDefinitions
     {
-
         [Given("User navigated to the login page")]
         public void GivenUserNavigatedToTheLoginPage()
         {
